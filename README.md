@@ -19,7 +19,9 @@ Each player has three main information:
 The goal is to maximize the total ratings of players you signed while spending no more than
 $X.
 ***
-NOTE: The splitting operations designed for .txt files.Contains greedy approach,heap sort, knapsack problem and rod cutting
+NOTE: The splitting operations designed for .txt files.Contains greedy approach,dynamic programming ,heap sort, knapsack problem and rod cutting.
+
+Greedy Algorithms’ and Dynamic Programming’s time complexity is different from each other. For example, Dynamic Programming bigger than Greedy Algorithm’s. However, Greedy Algorithm results are incorrect occasionally on the other hand Dynamic Programming always find the correct solution.
 ***
 Sample index:
 --
