@@ -41,4 +41,4 @@ Junior Teyfik,3,82,26830;
 
 Sahin Mercury,4,12000;
 ***
-You can add what you want but format is like that {Name,Position,Rating,Price}
+You can add what you want but format should be like that {Name,Position,Rating,Price}
